@@ -1,6 +1,6 @@
-## **FlexiPredict R**
+## **Ensemble Package R**
 
-FlexiPredict R is a comprehensive R package designed for advanced predictive modeling. This package includes various regression models, machine learning algorithms, feature selection methods, and ensemble learning capabilities, making it a versatile tool for statistical analysis and predictive modeling.
+Ensemble Package R is a comprehensive R package designed for advanced predictive modeling. This package includes various regression models, machine learning algorithms, feature selection methods, and ensemble learning capabilities, making it a versatile tool for statistical analysis and predictive modeling.
 
 ### **Installation:**
 To install the package, use the following command in R:
@@ -12,10 +12,10 @@ install.packages("devtools")
 
 ```
 
-### **Install FlexiPredict R from GitHub:**
+### **Install Ensemble Package R from GitHub:**
 
 ```
-devtools::install_github("yourusername/FlexiPredictR")
+devtools::install_github("yourusername/StatisticalComputingProject")
 ```
 
 ### **Usage:**
@@ -23,7 +23,7 @@ devtools::install_github("yourusername/FlexiPredictR")
 ```
 After installation, load the package in your R session:
 
-library(FlexiPredictR)
+library(StatisticalComputingProject)
 ```
 
 ### **Files and Descriptions:**
